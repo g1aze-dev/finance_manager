@@ -63,8 +63,7 @@ ons` - получить список всех транзакций
 # Пример
 
 ![Снимок](https://github.com/user-attachments/assets/857263b3-1c4c-4cc0-971d-77082445ea04)
-![Снимок2](https://github.com/user-attachments/assets/2d004c9b-a686-4b99-8967-da3fc6d41844)
-![Снимок5](https://github.com/user-attachments/assets/5adebf74-8c17-4ea1-b973-5107940bdfee)
+![Снимок2](https://github.com/user-attachments/assets/2d004c9b-a686-4b99-8967-da3fc6d41844) ![Снимок5](https://github.com/user-attachments/assets/5adebf74-8c17-4ea1-b973-5107940bdfee)
 ![Снимок3](https://github.com/user-attachments/assets/4d809583-0608-4b61-93f9-4a9d2ed6c09f)
 ![Снимок4](https://github.com/user-attachments/assets/a878638b-98f0-4481-af02-84a1413caaf7)
 ![Снимок7](https://github.com/user-attachments/assets/258349bf-2af4-422c-a975-e25d511f9b26)
