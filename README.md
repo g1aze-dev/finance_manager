@@ -60,7 +60,7 @@ ons` - получить список всех транзакций
    - Просмотра статистики
    - Просмотра списка всех транзакций
 
-##Пример
+#Пример
 
 ![Снимок](https://github.com/user-attachments/assets/857263b3-1c4c-4cc0-971d-77082445ea04)
 ![Снимок2](https://github.com/user-attachments/assets/2d004c9b-a686-4b99-8967-da3fc6d41844)
